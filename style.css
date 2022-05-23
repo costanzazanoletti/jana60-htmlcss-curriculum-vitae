@@ -1,0 +1,20 @@
+/* commons */
+.text-center {
+  text-align: center;
+}
+/* fine commons */
+/* inizio stile header */
+header {
+  background-color: #ededed;
+
+  /* border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: goldenrod; */
+
+  border-bottom: 2px solid goldenrod;
+}
+
+#profile-pic {
+  height: 250px;
+}
+/* fine stile header */
