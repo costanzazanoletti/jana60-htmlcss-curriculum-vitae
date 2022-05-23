@@ -2,6 +2,12 @@
 .text-center {
   text-align: center;
 }
+h2 {
+  color: goldenrod;
+}
+h3 {
+  font-style: italic;
+}
 /* fine commons */
 /* inizio stile header */
 header {
